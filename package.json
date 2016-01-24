@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "react-native": "^0.17.0",
-    "react-native-webrtc": "0.2.7",
+    "react-native-webrtc": "https://github.com/JohnKim/react-native-webrtc.git",
     "socket.io-client": "^1.3.7"
   }
 }
